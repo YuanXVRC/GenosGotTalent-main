@@ -1,2 +1,30 @@
-valenvrc:Texto de ejemplo para descripcion.
-Yuan X:Otro texto de ejemplo, pero mas feo.
+nombre1:descripcion1
+nombre2:descripcion2
+nombre3:descripcion3
+nombre4:descripcion4
+nombre5:descripcion5
+nombre6:descripcion6
+nombre7:descripcion7
+nombre8:descripcion8
+nombre9:descripcion9
+nombre10:descripcion10
+nombre11:descripcion11
+nombre12:descripcion12
+nombre13:descripcion13
+nombre14:descripcion14
+nombre15:descripcion15
+nombre16:descripcion16
+nombre17:descripcion17
+nombre18:descripcion18
+nombre19:descripcion19
+nombre20:descripcion20
+nombre21:descripcion21
+nombre22:descripcion22
+nombre23:descripcion23
+nombre24:descripcion24
+nombre25:descripcion25
+nombre26:descripcion26
+nombre27:descripcion27
+nombre28:descripcion28
+nombre29:descripcion29
+nombre30:descripcion30
