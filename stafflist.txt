@@ -2,4 +2,3 @@ valenvrc:Staff
 GenosSaitama:Staff
 Yuan X:Staff
 Rubius:Jurado
-ZorroCL:Participante
